@@ -72,6 +72,13 @@ Before you begin, ensure you have the following installed:
 2.  **Access the application:**
     Open your web browser and navigate to `http://localhost:8501` (or the specific address displayed in your terminal).
 
+## 🖼️ Screenshots
+---
+![Summarize_text](https://github.com/Prana5040/Text_Summarization/blob/main/Media/Text_Summarization.png)
+![Summarize_Document](https://github.com/Prana5040/Text_Summarization/blob/main/Media/Document_Summarization.png)
+
+--- 
+
 ## 🏗️ Application Architecture & Reasoning Flow
 
 The application follows a straightforward client-server architecture, with Streamlit handling both the frontend and the basic backend logic.
@@ -91,12 +98,6 @@ The application follows a straightforward client-server architecture, with Strea
 | (PDF/TXT)         |      | (Text Extraction, |
 +-------------------+       | Summarization)    |
 ```
-## 🖼️ Screenshots
----
-![Summarize_text](https://github.com/Prana5040/Text_Summarization/blob/main/Media/Text_Summarization.png)
-![Summarize_Document](https://github.com/Prana5040/Text_Summarization/blob/main/Media/Document_Summarization.png)
-
---- 
 
 ### Component Breakdown and Reasoning Flow
 
