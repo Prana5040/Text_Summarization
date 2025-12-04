@@ -91,6 +91,12 @@ The application follows a straightforward client-server architecture, with Strea
 | (PDF/TXT)         |      | (Text Extraction, |
 +-------------------+       | Summarization)    |
 ```
+## 🖼️ Screenshots
+---
+![Summarize_text](https://github.com/Prana5040/Text_Summarization/blob/main/Media/Text_Summarization.png)
+![Summarize_Document](https://github.com/Prana5040/Text_Summarization/blob/main/Media/Document_Summarization.png)
+
+--- 
 
 ### Component Breakdown and Reasoning Flow
 
